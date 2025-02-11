@@ -30,10 +30,10 @@ ByteSizedCorp is dedicated to making AI more accessible and impactful in the Saa
 ## **📡 Contact Us**
 
 We'd love to hear from you! Feel free to reach out through:
-- 📧 **Email**: [your-email@bytesizedcorp.com]
+- 📧 **Email**: [gaddisathwik@gmail.com]
 - 🛠 **GitHub Issues**: Report bugs, suggest features, or ask questions.
-- 📢 **Community Spaces**: Connect with fellow developers on [Discord](#) | [Twitter](#) | [Forum](#).
-- 🎥 **YouTube**: Check out our latest tutorials and updates on [gscripts](https://www.youtube.com/@gscripts).
+- 📢 **Community Spaces**: Connect with fellow developers on [Discord](https://discord.gg/y8CRJzEX).
+- 🎥 **YouTube**: Check out our latest tutorials and updates on [ByteSizedYT](https://www.youtube.com/@bytesizedcorp).
 
 ---
 
