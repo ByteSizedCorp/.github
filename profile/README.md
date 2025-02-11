@@ -18,6 +18,7 @@ ByteSizedCorp is dedicated to making AI more accessible and impactful in the Saa
 - 🔍 Checking out our repositories.
 - 📝 Looking through open issues and discussions.
 - 💡 Sharing ideas and collaborating on projects.
+- 💡 We also have list of ideas, that you can pick and get started with. Lets fill this community with wornderful AI integrated Full Stack Saas Products.
 
 🔗 **Steps to Join:**
 1. Fork and clone a repo.
