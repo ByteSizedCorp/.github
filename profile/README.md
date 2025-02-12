@@ -2,7 +2,7 @@
 
 > _Hello and welcome to ByteSizedCorp!_
 
-**"We're a new organization on a mission to learn and develop Saas Products, acheive AI integration within Saas products, and explore System Design Concepts, . Whether you're a seasoned developer or just starting your coding journey, there's a place for you here. We're all about collaboration, learning, and building great things together."**
+**"We're a new organization on a mission to learn and develop Saas Products, acheive AI integration within Saas products, learn problem solving and explore System Design Concepts, . Whether you're a seasoned developer or just starting your coding journey, there's a place for you here. We're all about collaboration, learning, and building great things together."**
 
 ---
 
