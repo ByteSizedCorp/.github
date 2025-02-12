@@ -2,7 +2,7 @@
 
 > _Hello and welcome to ByteSizedCorp!_
 
-**"We're a new organization on a mission to explore AI and SaaS integration. Whether you're a seasoned developer or just starting your coding journey, there's a place for you here. We're all about collaboration, learning, and building great things together."**
+**"We're a new organization on a mission to learn and develop Saas Products, acheive AI integration within Saas products, and explore System Design Concepts, . Whether you're a seasoned developer or just starting your coding journey, there's a place for you here. We're all about collaboration, learning, and building great things together."**
 
 ---
 
@@ -18,7 +18,7 @@ ByteSizedCorp is dedicated to making AI more accessible and impactful in the Saa
 - 🔍 Checking out our repositories.
 - 📝 Looking through open issues and discussions.
 - 💡 Sharing ideas and collaborating on projects.
-- 💡 We also have [list](../listofideas.md) of ideas, that you can pick and get started with. Lets fill this community with wornderful AI integrated Full Stack Saas Products.
+- 💡 We also have [list](../listofideas.md) of ideas, that you can pick and get started with. Lets fill this community with wonderful AI integrated Full Stack Saas Products.
 
 🔗 **Steps to Join:**
 1. Fork and clone a repo.
