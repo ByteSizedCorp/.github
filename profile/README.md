@@ -8,7 +8,7 @@
 
 ## **🚀 Our Mission: Building the Future Together**
 
-ByteSizedCorp is dedicated to making AI more accessible and impactful in the SaaS space. Our projects focus on practical AI integration, automation, and innovation. We're just getting started, and we'd love for you to be part of this journey.
+ByteSizedCorp is a learning hub dedicated to exploring AI, SaaS product development, automation, and innovation. As I dive into data structures & algorithms, system design, and building AI-powered SaaS solutions, I'll be sharing my journey, insights, and projects here. Join me in making AI more accessible and impactful!.
 
 ---
 
